@@ -1,0 +1,27 @@
+h1 {
+  color: blue;
+}
+
+.moon {
+  color: tomato;
+  font-size: 20px;
+  /* . representa uma "class", que serve para selecionar vários elementos no css*/
+}
+
+#temisto-moon {
+  font-size: 25px;
+  color: blue;
+  /* # representa um "id", que serve para especificar um elemento específico*/
+}
+
+body {
+  background-color: lightblue;
+}
+
+ul.merda {
+  border: 5px solid black;
+}
+
+ul.merda>li.moon {
+  border: 3px solid red;
+}
