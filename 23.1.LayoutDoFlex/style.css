@@ -9,8 +9,6 @@
    min-height: 100vh;
    display: flex;
    gap: 0px 15px;
-   justify-content: center;
-   align-items: center;
    flex-direction: column;
    /*flex-wrap: wrap;*/
 
@@ -27,13 +25,13 @@
    align-items: center;
 }
 
-.item1 {}
+
 
 .item2 {
    flex: 1 0 400px;
 }
 
-.item3 {}
+
 
 @media (max-width: 390px) {
    .item2 {
